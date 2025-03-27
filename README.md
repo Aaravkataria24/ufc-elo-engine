@@ -24,7 +24,7 @@ File Structure
 │── elo-engine.js           # Elo calculation script
 │── scraper.js              # UFC website scraper script
 │── README.md               # Project documentation
-│── requirements.txt        # Dependencies
+│── package.json            # Dependencies
 ```
 
 Contributing
